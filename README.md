@@ -10,7 +10,7 @@ Authorities. Its purpose is not to replace the DNS protocol, but to replace the 
 zone file and the root servers with a public commons.
 
 ### About The Name Manager Plugin
-The bPanel Name Manage plugin is a proof of concept for interacting with the Handshake
+The bPanel Name Manager plugin is a proof of concept for interacting with the Handshake
 network using bPanel. Since [hsd](https://github.com/handshake-org/hsd), the reference
 implementation for the handshake protocol, is compatible with the bcoin API, bPanel
 is able to support handshake relatively easily. The naming and DNS API does require
@@ -28,7 +28,7 @@ related caveats when working with blockchains and cryptocurrencies also apply.
 The Name Manager plugin currently supports:
 - Checking availability and status of names
 - Managing auctions, including:
-  - checking auction status
+  - Checking auction status
   - Opening bidding
   - Sending bids
   - Revealing bids
