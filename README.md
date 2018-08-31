@@ -1,7 +1,8 @@
 ## bPanel Name Manager for Handshake
 
+![nameManager](https://github.com/bpanel-org/name-manager/blob/master/images/preview.png "name manager preview")
 ### About Handshake
-[handshake.org](https://handshake.org)
+From [handshake.org](https://handshake.org):
 > Handshake is a decentralized, permissionless naming protocol compatible
 with DNS where every peer is validating and in charge of managing the
 root zone with the goal of creating an alternative to existing Certificate
@@ -36,6 +37,7 @@ The Name Manager plugin currently supports:
 - Updating/registering names
 - Renewing names
 
+### Handshake with other plugins
 Many other plugins that are compatible on Bitcoin and Bitcoin Cash will also
 work for Handshake as well. Available plugins include:
 
@@ -49,3 +51,7 @@ Check out the Showcase on [bpanel.org](https://bpanel.org/docs/plugin-showcase.h
 
 ### Like the theme in our screenshots?
 Install it yourself by adding `@bpanel/hdark` to your bPanel's plugins config.
+
+![nameManager](https://github.com/bpanel-org/name-manager/blob/master/images/preview2.png "name manager preview 2")
+
+![nameManager](https://github.com/bpanel-org/name-manager/blob/master/images/preview3.png "name manager preview 3")
