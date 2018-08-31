@@ -1,6 +1,6 @@
 ## bPanel Name Manager for Handshake
-
-![nameManager](https://github.com/bpanel-org/name-manager/blob/master/images/preview.png "name manager preview")
+https://raw.githubusercontent.com/bpanel-org/recent-blocks/master/screenshot.png
+![nameManager](https://raw.githubusercontent.com/bpanel-org/name-manager/master/preview.png "name manager preview")
 ### About Handshake
 From [handshake.org](https://handshake.org):
 > Handshake is a decentralized, permissionless naming protocol compatible
@@ -52,6 +52,6 @@ Check out the Showcase on [bpanel.org](https://bpanel.org/docs/plugin-showcase.h
 ### Like the theme in our screenshots?
 Install it yourself by adding `@bpanel/hdark` to your bPanel's plugins config.
 
-![nameManager](https://github.com/bpanel-org/name-manager/blob/master/images/preview2.png "name manager preview 2")
+![nameManager](https://raw.githubusercontent.com/bpanel-org/name-manager/master/preview2.png "name manager preview 2")
 
-![nameManager](https://github.com/bpanel-org/name-manager/blob/master/images/preview3.png "name manager preview 3")
+![nameManager](https://raw.githubusercontent.com/bpanel-org/name-manager/master/preview3.png "name manager preview 3")
